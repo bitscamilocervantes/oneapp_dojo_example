@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "Dojo Example Users List",
+  "tagHtml": "wc-mitigo-dojo-example-users-list",
+  "description": "Web component Dojo Example Users List",
+  "testData": {
+    "urlBase": "http://oneapp.dev.co",
+    "page": "1",
+    "businessUnit": "training",
+    "platform": "web"
+  }
+}

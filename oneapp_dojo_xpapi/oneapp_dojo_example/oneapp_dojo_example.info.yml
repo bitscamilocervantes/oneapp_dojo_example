@@ -1,0 +1,6 @@
+name: 'ONEAPP Dojo Example'
+type: module
+description: 'Modulo para ilustrar un ejemplo de XP Api en el marco de Dojo de entrenamiento'
+core: 8.x
+version: "8.x-1.0"
+

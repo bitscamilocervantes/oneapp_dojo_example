@@ -1,0 +1,6 @@
+services:
+  oneapp_dojo_example.v2_0.users_rest_logic:
+    class: Drupal\oneapp_dojo_example\Services\v2_0\UsersRestLogic
+    arguments: ['@oneapp_endpoint.manager', '@oneapp.utils']
+
+

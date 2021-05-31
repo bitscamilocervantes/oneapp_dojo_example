@@ -1,0 +1,8 @@
+<?php
+/**
+ * Implements hook_block_alter().
+ */
+function oneapp_dojo_example_block_alter(array &$definitions) {
+  $definitions['oneapp_dojo_example_v2_0_users_block']['class'] =
+    '\Drupal\oneapp_dojo_example\Plugin\Block\v2_0\UsersBlock';
+}
