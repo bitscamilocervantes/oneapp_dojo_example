@@ -24,3 +24,17 @@ R/ Labels de data, propiedades de config, botones
 9. Activar servicio REST y permisos
 10. Activar endpoint oneapp
 11. Probar servicio
+
+Implementacion webcomponent
+
+1. Crear modulo
+2. Crear componente principal
+3. Crear componente step 1 	
+4. Crear componente step 2
+5. Ejecutar webcomponent en local
+6. Compilar webcomponent
+
+Despliegue de webcomponent
+
+7. Subir webcomponent a bucket
+8. Configurar webcomponent en Oneapp
