@@ -1,5 +1,8 @@
 # oneapp_dojo_example
 
+Video de la sesion
+https://bitsamericasmail-my.sharepoint.com/:f:/g/personal/yineth_montes_bitsamericas_com/EsxbiFHhhMZPj4Xj078oxaoBC0KGi8RK4l3i_eto9ttQhw?e=q9qecZ
+
 Requerimientos
 
 XP Api: Crear un api de experiencia para obtener la lista de usuarios del sistema
